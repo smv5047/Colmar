@@ -550,6 +550,10 @@ nav {
   .thesis {
     display: none;
   }
+  
+  #mobile-thesis {
+    display: block;
+  }
 
   .thesis-video-mobile {
     width: 100%;
