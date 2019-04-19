@@ -542,9 +542,7 @@ nav {
 #thesis-top-box {
   background-color: lightgrey;
 }
-.mobile-thesis,
-.thesis-exhibit,
-.thesis-video-mobile {
+#mobile-thesis {
   display: none;
 }
 
